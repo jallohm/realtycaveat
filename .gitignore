@@ -1,0 +1,15 @@
+# compiled Python files
+*.pyc
+
+# Data sets
+data/
+
+#Build directories
+npm_modules/
+bower_components/
+
+#Virtualenv directories
+bin/
+lib/
+include/
+
